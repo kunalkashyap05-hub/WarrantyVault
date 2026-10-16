@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="shared_exports" path="exports/" />
+    <files-path name="bills" path="product_bills/" />
+    <files-path name="docs" path="product_docs/" />
+</paths>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- iOS Dark Theme Palette -->
+    <color name="background_light">#0F1115</color>
+    <color name="card_bg">#1A1D24</color>
+
+    <color name="primary">#8B93FF</color>
+    <color name="primary_variant">#6366F1</color>
+    <color name="primary_container">#282A36</color>
+    <color name="on_primary_container">#C0C4FF</color>
+
+    <color name="secondary">#38BDF8</color>
+    <color name="secondary_container">#1E293B</color>
+    <color name="on_secondary_container">#BAE6FD</color>
+
+    <color name="text_primary">#F2F3F7</color>
+    <color name="text_secondary">#9AA1AF</color>
+    <color name="text_hint">#626978</color>
+    <color name="divider_outline">#2A2E39</color>
+
+    <!-- Status & Alert Colors (Dark Mode) -->
+    <color name="status_success">#34D399</color>
+    <color name="status_success_bg">#133829</color>
+
+    <color name="status_warning">#FBBF24</color>
+    <color name="status_warning_bg">#3D300F</color>
+
+    <color name="status_error">#FB7185</color>
+    <color name="status_error_bg">#3E1B23</color>
+
+    <color name="status_info">#38BDF8</color>
+    <color name="status_info_bg">#122E3E</color>
+
+    <color name="shimmer_color">#262B36</color>
+</resources>
